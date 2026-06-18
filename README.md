@@ -18,3 +18,11 @@ The objective of this project is to analyze Superstore sales data and extract me
 - NumPy
 - Google Colab
 - Streamlit (for dashboard)
+
+## ⚙️ Project Workflow
+1. Data Loading
+2. Data Cleaning (missing values, duplicates, data types)
+3. Exploratory Data Analysis (EDA)
+4. GroupBy and Aggregation Analysis
+5. Business Insights Extraction
+6. Streamlit Dashboard Development
