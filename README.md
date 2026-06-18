@@ -32,3 +32,10 @@ The objective of this project is to analyze Superstore sales data and extract me
 - Standard Class shipping is most commonly used
 - A small group of customers contributes major sales
 - Certain sub-categories perform poorly due to low profit margins
+
+## 🚀 How to Run This Project
+1. Clone the repository
+2. Install required libraries:
+   pip install pandas numpy streamlit
+3. Run Streamlit app:
+   streamlit run app.py
