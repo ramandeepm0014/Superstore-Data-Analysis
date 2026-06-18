@@ -11,3 +11,10 @@ The objective of this project is to analyze Superstore sales data and extract me
 - Dataset: Superstore Sales Dataset
 - Type: Retail sales data
 - Key Columns: Sales, Profit, Category, Sub-Category, Customer Name, Region, Ship Mode
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Google Colab
+- Streamlit (for dashboard)
