@@ -34,10 +34,9 @@ The objective of this project is to analyze Superstore sales data and extract me
 - Certain sub-categories perform poorly due to low profit margins
 
 ## 🚀 How to Run This Project
-1. Clone the repository
-2. Install required libraries:
+1. Install required libraries:
    pip install pandas numpy streamlit
-3. Run Streamlit app:
+2. Run Streamlit app:
    streamlit run app.py
 
 ## 📸 Dashboard Preview
