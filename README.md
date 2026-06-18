@@ -39,3 +39,6 @@ The objective of this project is to analyze Superstore sales data and extract me
    pip install pandas numpy streamlit
 3. Run Streamlit app:
    streamlit run app.py
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](screenshots/dashboard.png)
