@@ -26,3 +26,9 @@ The objective of this project is to analyze Superstore sales data and extract me
 4. GroupBy and Aggregation Analysis
 5. Business Insights Extraction
 6. Streamlit Dashboard Development
+
+## 📊 Key Insights
+- Technology category generates the highest profit
+- Standard Class shipping is most commonly used
+- A small group of customers contributes major sales
+- Certain sub-categories perform poorly due to low profit margins
