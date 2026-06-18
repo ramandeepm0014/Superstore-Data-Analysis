@@ -6,3 +6,8 @@ The objective of this project is to analyze Superstore sales data and extract me
 - Which products generate the highest profit
 - Which customer segments are most valuable
 - How sales vary across categories and regions
+
+## 📂 Dataset Information
+- Dataset: Superstore Sales Dataset
+- Type: Retail sales data
+- Key Columns: Sales, Profit, Category, Sub-Category, Customer Name, Region, Ship Mode
