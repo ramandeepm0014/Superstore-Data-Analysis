@@ -13,12 +13,12 @@ The objective of this project is to analyze Superstore sales data and extract me
 - Key Columns: Sales, Profit, Category, Sub-Category, Customer Name, Region, Ship Mode
 
 ## 🛠 Tools Used
-- Python
-- Pandas
-- NumPy
-- Google Colab
-- Streamlit (for dashboard)
-
+-  🐍 Python  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- ☁️Google Colab
+- ⚡ Streamlit (for dashboard)
+  
 ## ⚙️ Project Workflow
 1. Data Loading
 2. Data Cleaning (missing values, duplicates, data types)
