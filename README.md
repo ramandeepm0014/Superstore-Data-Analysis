@@ -33,6 +33,18 @@ The objective of this project is to analyze Superstore sales data and extract me
 - A small group of customers contributes major sales
 - Certain sub-categories perform poorly due to low profit margins
 
+### Original Dataset
+<img width="1722" height="656" alt="image" src="https://github.com/user-attachments/assets/dc918336-2c59-439a-b583-259f4bc94fdf" />
+
+### Missing Values Detection
+<img width="1706" height="716" alt="image" src="https://github.com/user-attachments/assets/a262b11b-56e1-4ef7-b4da-4394f0a0d1ba" />
+
+### Manual Cleaning
+<img width="1743" height="702" alt="image" src="https://github.com/user-attachments/assets/4c420a8a-d64d-45f5-b377-0be047dc2a15" />
+
+### Automatic Cleaning
+<img width="1736" height="733" alt="image" src="https://github.com/user-attachments/assets/58fad44e-1504-4fef-acee-77d68ee1e0ac" />
+
 ## 🚀 How to Run This Project
 1. Install required libraries:
    pip install pandas numpy streamlit
@@ -41,3 +53,6 @@ The objective of this project is to analyze Superstore sales data and extract me
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](screenshots/dashboard.png)
+
+## 👩‍💻 Author
+*Ramandeep Kaur*
