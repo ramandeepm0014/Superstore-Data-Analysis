@@ -1,7 +1,7 @@
 # 🎯 Superstore-Data-Analysis
 Superstore Data Analysis project using Python, Pandas and NumPy. Includes data cleaning, preprocessing, and exploratory analysis to generate business insights on sales, profit, customers, and shipping performance using Superstore dataset.
 
-## 📌 Problem Statement
+## 📌 Problem Overview
 The objective of this project is to analyze Superstore sales data and extract meaningful business insights such as:
 - Which products generate the highest profit
 - Which customer segments are most valuable
@@ -18,6 +18,53 @@ The objective of this project is to analyze Superstore sales data and extract me
 - 🔢 NumPy  
 - ☁️Google Colab
 - ⚡ Streamlit (for dashboard)
+
+## 🔍 Missing Value Detection
+
+python
+df.isnull().sum()
+
+
+The dataset contains multiple missing values represented as NaN.
+
+---
+
+## 🧹 Manual Cleaning
+
+Rows containing missing values were removed using:
+
+python
+df.dropna()
+
+
+Advantages:
+- Simple implementation
+- Removes incomplete records
+
+Disadvantages:
+- Data loss
+
+---
+
+## 🤖 Automatic Cleaning
+
+### Mean Imputation
+
+python
+df.fillna(df.mean())
+
+
+### Median Imputation
+
+python
+df.fillna(df.median())
+
+
+### Mode Imputation
+
+python
+df.fillna(df.mode().iloc[0])
+
   
 ## ⚙️ Project Workflow
 1. Data Loading
