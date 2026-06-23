@@ -52,7 +52,14 @@ The objective of this project is to analyze Superstore sales data and extract me
    streamlit run app.py
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+
+<img width="1702" height="776" alt="image" src="https://github.com/user-attachments/assets/3a639a87-c826-4dd9-a605-699c6eb415af" />
+
+<img width="1211" height="757" alt="image" src="https://github.com/user-attachments/assets/f555c363-1a10-48c3-bf23-d9227a458826" />
+
+<img width="1321" height="632" alt="image" src="https://github.com/user-attachments/assets/e80471e1-7d46-48bd-aa63-f7ada0a4c598" />
+
+<img width="1268" height="787" alt="image" src="https://github.com/user-attachments/assets/9b88a07b-718d-430a-b2f9-358da14a7569" />
 
 ## 👩‍💻 Author
 *Ramandeep Kaur*
