@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+
+## Run Project
+python -m streamlit run app.py
